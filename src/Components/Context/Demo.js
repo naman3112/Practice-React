@@ -12,4 +12,4 @@ function Demo(){
         </div>
     )
 }
-export default React.memo(Demo);
+export default React.memo(Demo);  
